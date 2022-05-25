@@ -28,4 +28,5 @@ int main()
     string arr[10] = {"zero", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine"};
     saydigit(n, arr);
     return 0;
+    
 }
